@@ -85,7 +85,7 @@ int main() {
 
     chiffreListe(tete, decalage);
 
-    printf("Message chiffre ou déchiffre : ");
+    printf("Message chiffre ou déchiffre :\n ");
     afficherListe(tete);
 
     return 0;
